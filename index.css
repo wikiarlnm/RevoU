@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;500;600;700&display=swap");
 :root {
   --text: #798da3;
   --container-bg: #edf0f4;
@@ -14,7 +14,7 @@
 }
 
 body {
-  font-family: 'Roboto', sans-serif;
+  font-family: "Poppins", sans-serif;
 }
 
 @media only screen and (max-width: 767px) {
@@ -36,7 +36,7 @@ body {
   width: 100vw;
   transition: top 0.7s;
   z-index: 999;
-  background-color: white;
+  background-color: whitesmoke;
 }
 
 p,
